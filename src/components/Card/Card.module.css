@@ -1,0 +1,17 @@
+.container {
+background-color:green;
+width:10em;
+padding: 1em;
+border-radius: 20px;
+display: flex;
+flex-direction: column;
+margin: 0.5em;
+}
+
+.closeButton {
+  border: 0px;
+  background-color: greenyellow;
+  border-radius: 50px;
+  width: fit-content;
+  height: fit-content;
+}
